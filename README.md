@@ -6,3 +6,5 @@
 این مخزن فقط فایل‌های ساخته‌شده است؛ کد اصلی در مخزن خصوصی پروژه است.
 
 https://farbodforoudii-cpu.github.io/farbod-coaching-app/
+
+نسخه: 2026-10-27

@@ -1,0 +1,1 @@
+import{a as t,j as n}from"./router-Cw6k9xyf.js";import{D as s,i as a}from"./core-jxBZaf3q.js";const r=t.createContext(s);function i({locale:e,children:o}){return n.jsx(r.Provider,{value:e,children:o})}function x(){return a(t.useContext(r))}try{i.$$client=!0}catch{}export{i as I,x as u};

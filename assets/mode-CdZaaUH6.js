@@ -1,0 +1,1 @@
+const t="/farbod-coaching-app/",e=()=>"/"+location.pathname.slice(t.length);function o(c){return/^\/lang(\?|$)/.test(c)?n:/^\/coach(\/|\?|#|$)/.test(c)?"coach":"client"}const n=/^\/coach(\/|$)/.test(e())?"coach":"client";export{n as M,o as m};

@@ -1,0 +1,1 @@
+const l=new Set(["https:","tel:","mailto:"]);function o(r){const t=r?.trim();if(!t)return null;try{const n=new URL(t);return l.has(n.protocol)?n.toString():null}catch{return null}}function c(){return o(globalThis.__fcEnv.COACH_CONTACT_URL)}export{c};

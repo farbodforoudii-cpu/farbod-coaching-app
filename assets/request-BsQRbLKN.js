@@ -1,0 +1,1 @@
+import{headers as r}from"./next-headers-BR0FhsHb.js";async function n(){return globalThis.__fcEnv.TRUST_PROXY!=="1"?"direct":(await r()).get("x-forwarded-for")?.split(",")[0]?.trim()||"unknown"}export{n as c};

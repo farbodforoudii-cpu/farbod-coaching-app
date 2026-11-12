@@ -1,0 +1,1 @@
+import{j as a,b as n}from"./router-DHPxEpfj.js";function m({src:t,priority:p,fill:o,quality:u,placeholder:h,style:i,alt:r="",...e}){const s=typeof t=="string"?t:t.src;return a.jsx("img",{src:s.startsWith("/")?n(s):s,alt:r,style:o?{position:"absolute",inset:0,width:"100%",height:"100%",...i}:i,...e})}export{m as I};

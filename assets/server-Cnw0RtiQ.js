@@ -1,1 +1,0 @@
-import{cookies as o}from"./next-headers-BR0FhsHb.js";import{a}from"./router-B66KibvR.js";import{i as t,p as c,L as e}from"./core-zKTaDGv2.js";const s=a.cache(async()=>c((await o()).get(e)?.value)),m=a.cache(async()=>t(await s()));export{m as g};

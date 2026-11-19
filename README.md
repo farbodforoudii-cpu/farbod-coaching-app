@@ -8,4 +8,4 @@
 
 https://farbodforoudii-cpu.github.io/farbod-coaching-app/
 
-نسخه: 2026-11-19 (۸)
+نسخه: 2026-11-19 (۹)

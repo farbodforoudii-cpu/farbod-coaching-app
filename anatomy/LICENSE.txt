@@ -1,0 +1,7 @@
+body.glb is derived from BodyParts3D, © The Database Center for Life Science (DBCLS),
+licensed under Creative Commons Attribution-Share Alike 2.1 Japan (CC BY-SA 2.1 JP):
+https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en
+Source: https://lifesciencedb.jp/bp3d/ (via github.com/Kevin-Mattheus-Moerman/BodyParts3D).
+Changes (Farbod Coaching, 19 Nov 2026): 631 musculoskeletal structures and the skin selected,
+simplified (meshoptimizer) from 18.6M to 277k triangles, quantized and meshopt-compressed into one GLB.
+This file (body.glb) is shared under the same licence, CC BY-SA 2.1 JP.
